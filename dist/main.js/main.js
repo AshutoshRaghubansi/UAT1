@@ -1,1 +1,1 @@
-(()=>{const e=document.createElement("p");e.textContent="Hello from webpack!",document.body.append(e)})();
+console.log("Hello, and welcome to webpack-5-examples.");
