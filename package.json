@@ -27,6 +27,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "http-module": "^0.0.5"
+    "http-module": "^0.0.5",
+    "pm2": "^3.5.1"
   }
 }
